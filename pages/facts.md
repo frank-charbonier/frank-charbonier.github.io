@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Interesting Facts
-category: facts
-permalink: /facts
+title: Photos
+category: photos
+permalink: /photos
 ---
 
-This is the facts page
+This is the photos page
