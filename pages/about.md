@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: About
 permalink: /about
-image: hotel-grant.jpg
 ---
 
-About Frank
+Coming soon...check out my Linkedin (top right) for now!
