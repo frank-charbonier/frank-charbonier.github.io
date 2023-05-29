@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Copyright \u00A9 2023 frank-charbonier.github.io"
+title:		           "frank-charbonier.github.io"
 description:	       "Powered by Jekyll with Millenial theme. Hosted by GitHub Pages."
-author:              "Frank Charbonier"
+author:              "Frank Charbonier Copyright \u00A9 2023"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
