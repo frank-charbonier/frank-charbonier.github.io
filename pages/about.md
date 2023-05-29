@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+image: hotel-grant.jpg
 ---
 
-This site is under construction
+About Frank
