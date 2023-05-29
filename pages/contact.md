@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: contact
 title: Contact
 permalink: /contact
 ---
 
-Test the contact page
+Use the form below to send me a message:
